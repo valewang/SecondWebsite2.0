@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    <meta name="description" content="Roughly 155 characters">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- Content -->
+  <div>ProgramHer<div>
+    <div>
+      <h2>The Fashion Of Cars<h2>
+    <br>
+    <img src="https://images.unsplash.com/photo-1517994112540-009c47ea476b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b956e29e6b87c8d08f7f8f6fa57e7e57&auto=format&fit=crop&w=781&q=80" height=400 />
+    <br>
+    <a href="https://www.lamborghini.com/en-en/">click for more info</a>
+        <br>
+    <img src="https://images.unsplash.com/photo-1507934420242-135eb0887abf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7427b4c401d74394064fe78d9390d0ff&auto=format&fit=crop&w=750&q=80" height=400
+   <br>
+        <a href="https://www.caranddriver.com/dodge/challenger-srt-demon">click for more info</a>
+   <br>
+    <p style="text-align: center;">The red Lamborghini flares a powerful aura showing defence yet beauty. The wet surrounding enviroment makes the naked eye focus on the red pigmintation of the breathtaking model. The awaking headlights bring the boldness into the gorgeous Lamborghini. The fierce Dodge Demon shares its adventure with the Earth. The bold and beautiful is emphasized by the enviroment. The Demon's attachment to the world and the outdoors attract the indvidual for a long living adventure.</p>
+        <br>
+        <ul>
+           <li>thisisustoyoucar@yahoo.com</li>
+  <li>303-987-6543</li>
+  <li>123 Regis st. Denver Co 80239</li>
+          <br>
+          <text>Follow us
+            <div><a href="https://www.facebook.com/"><img src="http://iconbug.com/download/size/512/icon/481/small-blue-facebook/" alt="Facebook" height=30 /><a href="https://twitter.com/?lang=en"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Twitter" height=30 /><a href="https://www.instagram.com/?hl=en"><img src="http://www.solidaritynow.org/wp-content/uploads/2017/12/instagram-colourful-icon.png" alt="Instagram" height=30 /><a href="https://www.youtube.com/"><img src="https://icon-icons.com/icons2/838/PNG/512/circle-youtube_icon-icons.com_66837.png" alt="Youtube" height=30 /><a href="https://accounts.snapchat.com/accounts/login?continue=https%3A%2F%2Faccounts.snapchat.com%2Faccounts%2Fwelcome"><img src="data:image/png;base64,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" alt="Snapcht" height=30 />
+ </body>
+</html>
